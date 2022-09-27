@@ -14,6 +14,9 @@ Usa `ng serve --o` desde la terminal de comandos para iniciar el servidor. Se ej
 
 Ejecuta `ng build` desde la terminal de comandos para construir el proyecto. Toda la construcción se almacenarán en el directorio `dist/`.
 
-## Further help
 
+## Visualizar página
+Entra en mi [GitHub Page](https://joshsb-git.github.io/angularFinsotienda/) para visualizar la página.
+
+## Further help
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
